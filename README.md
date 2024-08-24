@@ -1,0 +1,2 @@
+# otakutracker
+OtakuTrackerAuth
